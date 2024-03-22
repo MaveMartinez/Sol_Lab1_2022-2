@@ -1,18 +1,13 @@
 // Lab1_2022-2.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
-//
-//cambio de prueba 20
+
 #include <iostream>
 const int MAX = 16;
 
 using namespace std;
-//cambio4
-//otro cambio
+
 void read_data(int *ptr_n, int coded_word_numbers[], char coded_word[]);
 void show_decoded_word(int n, int coded_word_numbers[], char coded_word[]);
 void sort(int n, int coded_word_numbers[], char coded_word[]);
-//cambio6
-//CAMBIAZOOOOOOOOOOOO
-//OTRO CAMBIO AAAAAAAAAAAA
 
 int main()
 {
