@@ -16,7 +16,7 @@ int main()
     int n;
     int coded_word_numbers[MAX];
     char coded_word[MAX];
-
+    //comentario para cambio
     read_data(&n, coded_word_numbers, coded_word);
     sort(n, coded_word_numbers, coded_word);
     show_decoded_word(n, coded_word_numbers, coded_word);
