@@ -1,5 +1,5 @@
 // Lab1_2022-2.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
-//
+//cambio inicial
 //cambio de prueba 20
 #include <iostream>
 const int MAX = 16;
